@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  MKPcc
+//  MKPcc - Multiple Knapsack Problem with Compatibility and Compulsory Items
 //
 //  Created by João Gilberto Sanzovo on 27/09/2017.
 //  Copyright © 2017 USP. All rights reserved.
